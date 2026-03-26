@@ -1,1 +1,1 @@
-# Actividad-2-Comunicaci-n-en-Redes
+# Actividad-2-Comunicacion-en-Redes
